@@ -1,0 +1,8 @@
+README.txt
+baker.py
+setup.cfg
+setup.py
+Baker.egg-info/PKG-INFO
+Baker.egg-info/SOURCES.txt
+Baker.egg-info/dependency_links.txt
+Baker.egg-info/top_level.txt
